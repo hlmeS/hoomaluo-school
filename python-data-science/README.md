@@ -13,6 +13,7 @@ The data science learning outcomes are:
 | Structuring and analyzing the problem | What methods do I need to solve this problem? What steps do I need to take to get to the answer? How to structure my program?     |
 
 The mathematics outcomes are:
+
 | Outcome       | Example       |
 | ------------- |:-------------:|
 | Numer System  | What are whole numbers? What are integers? What are rational and irrational numbers? |
