@@ -4,7 +4,12 @@ Aloha,
 
 this repository is a collection of resources and materials for the Hoomaluo Labs School first Python course. This course introduces students to data science, computational thinking, Python programming, and mathematics.
 
-The data science learning outcomes are:
+The course is structured into **three project** (units), each one consisting of **five to six weeks** (modules). 
+
+To support the understanding of mathematical concepts, we will use the following textbook. We ask that students either bring a physical printout or purchase the hardcopy on Amazon.
+**Let's Play the Ukulele** [Available online](http://tinyurl.com/stemd2-ukulele-s) and  [Available on Amazon](http://tinyurl.com/stemd2-ukulele-s-amazon)
+
+## Data science learning outcomes
 
 | Outcome       | Example       |
 | ------------- |:-------------:|
@@ -12,7 +17,7 @@ The data science learning outcomes are:
 | Defining the problem     | What are the inputs and desired outputs? What are the questions to ask about inputs that give me desired outputs? What are my assumptions?     |
 | Structuring and analyzing the problem | What methods do I need to solve this problem? What steps do I need to take to get to the answer? How to structure my program?     |
 
-The mathematics outcomes are:
+## Mathematics learning outcomes
 
 | Outcome       | Example       |
 | ------------- |:-------------:|
