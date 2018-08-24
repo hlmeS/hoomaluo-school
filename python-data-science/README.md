@@ -6,7 +6,7 @@ this repository is a collection of resources and materials for the Hoomaluo Labs
 
 The course is structured into **three project** (units), each one consisting of **five to six weeks** (modules). 
 
-To support the understanding of mathematical concepts, we will use the following textbook. We ask that students either bring a physical printout or purchase the hardcopy on Amazon.
+To support the understanding of mathematical concepts, we will use the following textbook. We ask that students either bring a physical printout or purchase the hardcopy on Amazon. <br>
 **Let's Play the Ukulele** [Available online](http://tinyurl.com/stemd2-ukulele-s) and  [Available on Amazon](http://tinyurl.com/stemd2-ukulele-s-amazon)
 
 ## Data science learning outcomes
