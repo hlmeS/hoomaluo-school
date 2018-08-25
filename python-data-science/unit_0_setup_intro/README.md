@@ -25,18 +25,18 @@ More instructions on the installation process can be found here:
 The Jupyter notebook is a really amazing tool that let's you to to write codes and reports at the same time by simply interspersing code with markdown (md) comments. This is great, because you can for example copy/paste the task or problem statement, then document your thought process, then test some code, and then document your results. Let's see how we can use this.
 
 * Launch the Anaconda Navigator
-  ![Anaconda Navigator](src/anaconda_navigator.png)
+  ![Anaconda Navigator](img/anaconda_navigator.png)
 * Launch Jupyterlab
 * Create a `python-data-science` folder using the sidebar.
   * For example, go to your `Documents` folder
   * Click on the new folder icon
   * Name the folder `python-data-science`
 * Now create a `Python 3 Notebook`
-  ![Create Python 3 notebook](src/jupyter_createNotebook.png)
+  ![Create Python 3 notebook](img/jupyter_createNotebook.png)
 * Rename the notebook based on today's date and the title that you want to give the notebook, e.g. `20180821_my_first_notebook.`
-  ![Rename notebook](src/jupyter_firstNotebook.png)
+  ![Rename notebook](img/jupyter_firstNotebook.png)
 * Save the empty notebook
-  ![Save notebook](src/jupyter_saveNotebook.png)
+  ![Save notebook](img/jupyter_saveNotebook.png)
 
 Congrats, now you're ready to start you first notebook.
 
@@ -101,10 +101,10 @@ Congrats, you've completed your first notebook. Make sure to save it and submit 
 ```
 
 Wihtout running the cells, your file should look as follows:
-![Jupyter notebook before running the code](src/jupyter_code_0.png)
+![Jupyter notebook before running the code](img/jupyter_code_0.png)
 
 After running each cell, it should look like this:
-![Jupyter notebook after running the code](src/jupyter_code_1.png)
+![Jupyter notebook after running the code](img/jupyter_code_1.png)
 
 ## PyCharm Edu
 
@@ -136,12 +136,12 @@ tar -xzf pycharm-edu-2018.2.tar.gz
 You will need to configure your PyCharm environment to use the Anaconda Python3.6 Interpreter. This is important when you create new projects. You can follow the these steps:
 1. Open PyCharm
 2. Create a new project
-  ![New project screen](src/steps_a_1.png)
+  ![New project screen](img/steps_a_1.png)
 3. Click on the little arrow in fron of `Project Interpreter` and choose the `new environment using` `Conda` option. The `Python version` should be `3.6`.
-  ![New project screen](src/steps_a_2.png)
+  ![New project screen](img/steps_a_2.png)
 If you've already created a project and missed to change the interpreter, no problem. You can follow these steps:
 1. Click on >Preferences >Project >Project Interpreter and select the Python 3.6 interpreter.
-  ![Change project interpreter from preferences](src/steps_b_1.png)
+  ![Change project interpreter from preferences](img/steps_b_1.png)
 2. If you don't see the Python 3.6 Interpreter, you may need to add it by clicking on the three dots in the image below.
 
 ### Loading a course
@@ -150,7 +150,7 @@ Throughout this class, you will work through courses that we're providing. There
 1. Donwload the course as a `.zip` file from our github or Google Classroom
 2. In PyCharm, you click `Browse Courses`
 3. You click the little icon on the lower left in the image below and click `Import local course`.
-  ![Import local course.](src/joinCourse.png)
+  ![Import local course.](img/joinCourse.png)
 4. You select the `.zip` file that you previously downloaded.
 5. You click `Join`.
 
