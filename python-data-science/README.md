@@ -4,7 +4,7 @@ Aloha,
 
 this repository is a collection of resources and materials for the Hoomaluo Labs School first Python course. This course introduces students to data science, computational thinking, Python programming, and mathematics.
 
-The course is structured into **three project** (units), each one consisting of **five to six weeks** (modules). 
+The course is structured into **three project** (units), each one consisting of **five to six weeks** (modules).
 
 To support the understanding of mathematical concepts, we will use the following textbook. We ask that students either bring a physical printout or purchase the hardcopy on Amazon. <br>
 **Let's Play the Ukulele** [Available online](http://tinyurl.com/stemd2-ukulele-s) and  [Available on Amazon](http://tinyurl.com/stemd2-ukulele-s-amazon)
@@ -27,3 +27,10 @@ To support the understanding of mathematical concepts, we will use the following
 | Functions | Define, evaluate, and compare functions. Understand what functions are. Describing functions algebraically, graphically, numerically in tables, and verbally. Use functions to model relationships between quantities. |
 | Geometry | Understand and apply the Pythagorean Theorem. Solve real-world and mathematical problems involving volume of cylinders, cones, and spheres. |
 | Statistic and Probability | Investigate patterns of association in bivariate data. Understand concepts of percentage, average, median, mode, and standard deviation. Create and interpret scatter plots. Fit straight lines to scatter plots. |
+
+## Learning resources
+One of the exciting aspects of learning programming is that there are so many excellent learning resources freely available. We'd like to ackknowledge some of the resources that we used to create this course:
+* Stack Overflow
+* [Berkeley D-Lab](http://python.berkeley.edu/resources/)
+* [DataCamp](https://www.datacamp.com/courses/intro-to-python-for-data-science)
+* more to come
