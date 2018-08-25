@@ -1,6 +1,6 @@
 # Setup and Installation
 
-Before we can get started and dive into your first Python programming lesson, we need to install Python on your local machine. While you most likely already have some version of Python installed, we want to make sure that everyone is using the same environment for development. That is, you will use two tools to use Python: <br>
+Before we can get started learning any programming language, we must make sure that we have the necessary tools installed first. While you most likely already have some version of Python installed, we want to make sure that everyone is using the same environment for development. That is, you will use two tools in this class: <br>
 * [Jupyter notebook]() in the [Anaconda framework]() for lessons and projects
 * [PyCharm Edu]() for tutorials
 
@@ -22,23 +22,23 @@ More instructions on the installation process can be found here:
 
 ### Using the Jupyter notebook
 
-The Jupyter notebook is a really amazing tool that let's you to to write codes and reports at the same time by simply interspersing code with markdown (md) comments. This is great, because you can for example copy/paste the task or problem statement, then document your thought process, then test some code, and then document your results. Let's see how we can use this.
+The Jupyter notebook is a really amazing tool that let's you write code blocks and reports at the same time by simply interspersing code with markdown (md) comments. This is great because you can for example copy/paste the task or problem statement first, then document your thought process, then test some code, and then document your results. Sounds good? Let's see how we can use this.
 
 * Launch the Anaconda Navigator
   ![Anaconda Navigator](img/anaconda_navigator.png)
-* Launch Jupyterlab
+* Launch jupyterlab
 * Create a `python-data-science` folder using the sidebar.
   * For example, go to your `Documents` folder
   * Click on the new folder icon
   * Name the folder `python-data-science`
 * Now create a `Python 3 Notebook`
   ![Create Python 3 notebook](img/jupyter_createNotebook.png)
-* Rename the notebook based on today's date and the title that you want to give the notebook, e.g. `20180821_my_first_notebook.`
+* Rename the notebook based on today's date and the title that you want to give the notebook, e.g. `20180821_my_first_notebook.ipynb`
   ![Rename notebook](img/jupyter_firstNotebook.png)
 * Save the empty notebook
   ![Save notebook](img/jupyter_saveNotebook.png)
 
-Congrats, now you're ready to start you first notebook.
+Congrats, now you're ready to start your first notebook.
 
 ### First Jupyter notebook
 
@@ -106,12 +106,14 @@ Wihtout running the cells, your file should look as follows:
 After running each cell, it should look like this:
 ![Jupyter notebook after running the code](img/jupyter_code_1.png)
 
+Awesome, feel free to experiment and see what else you can do with it. Make sure to remember to use the `Code` type for coding and the `Markdown` type for comments. Let's continue on the next tool.
+
 ## PyCharm Edu
 
-PyCharm Edu is not only an education tool and learning system, PyChrarm itselft is also a professional development platform for Python. We will provide courses that you can independently complete to learn the class concepts.
+PyCharm Edu is not only an education tool and learning system, the PyCharm IDE (integrated development environment) itself is a professional development platform for Python. We will provide courses that you can independently complete to learn the class concepts.
 
 ### Installation
-You will need to download the appropriate PyCharm Edu for your operating system from [this platform](https://www.jetbrains.com/pycharm-edu/download/).
+You will need to download the appropriate PyCharm Edu tool for your operating system from [this platform](https://www.jetbrains.com/pycharm-edu/download/).
 
 You can jump directly to the download versions using the following links:
 * [Windows 64-bit installer](https://www.jetbrains.com/pycharm-edu/download/download-thanks.html?platform=windows)
