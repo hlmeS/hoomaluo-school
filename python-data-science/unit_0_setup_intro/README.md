@@ -158,7 +158,7 @@ Throughout this class, you will work through courses that we're providing. There
   ![Advanced settings.](img/pycharm_environment.png)
 5. You click `Join`.
 
-To practice this, please download, import and complete the [Hoomaluo - Unit 0 - Intro course](). The image below shows you how to navigate the interface. 
+To practice this, please download, import and complete the [Hoomaluo - Unit 0 - Intro course](https://github.com/hlmeS/hoomaluo-school/blob/master/python-data-science/unit_0_setup_intro/Hoomaluo___Unit_0___Intro.zip). The image below shows you how to navigate the interface.
 
 ![PyCharm Interface](img/pycharm_course_annot.png)
 
