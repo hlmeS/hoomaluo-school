@@ -1,8 +1,8 @@
 # Setup and Installation
 
 Before we can get started learning any programming language, we must make sure that we have the necessary tools installed first. While you most likely already have some version of Python installed, we want to make sure that everyone is using the same environment for development. That is, you will use two tools in this class: <br>
-* [Jupyter notebook]() in the [Anaconda framework]() for lessons and projects
-* [PyCharm Edu]() for tutorials
+* Jupyter notebook in the Anaconda framework for lessons and projects
+* PyCharm Edu for tutorials
 
 Use the instructions below to install each environment. Make sure to follow the recommended steps for your operating system.
 
@@ -154,9 +154,13 @@ Throughout this class, you will work through courses that we're providing. There
 3. You click the little icon on the lower left in the image below and click `Import local course`.
   ![Import local course.](img/joinCourse.png)
 4. You select the `.zip` file that you previously downloaded.
+5. You change the interpreter to `Python 3.6` under Advanced Settings
+  ![Advanced settings.](img/pycharm_environment.png)
 5. You click `Join`.
 
-To practice this, please import and complete the `Hoomaluo - Test Course`.
+To practice this, please download, import and complete the [Hoomaluo - Unit 0 - Intro course](). The image below shows you how to navigate the interface. 
+
+![PyCharm Interface](img/pycharm_course_annot.png)
 
 ### Creating a new project
 
