@@ -105,4 +105,4 @@ If you finish early, take a look at some of the other string operators, such as
 * `s[:]`
 * `s[::-1]`
 
-In the given examples, replace s with the name of your string variable. You can view many more useful functino in this [Python string cheat sheet]( https://www.shortcutfoo.com/app/dojos/python-strings/cheatsheet). Don't try to remember them all, just understand how to use them. 
+In the given examples, replace `s` with the name of your string variable. You can view many more useful functino in this [Python string cheat sheet]( https://www.shortcutfoo.com/app/dojos/python-strings/cheatsheet). Don't try to remember them all, just understand how to use them.
