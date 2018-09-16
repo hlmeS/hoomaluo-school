@@ -1,7 +1,7 @@
 # Unit 1 - Module 3
 
 ## Overview
-In the last class, we looked at Pythagorean tuning and introduced the concepts of if-statements and litst. Remember that if-statements are a means to run different code depending on whether a condition is satisfied or not. So far, we've used integeres, to check whether values are in certain ranges or equal to certain values, but we can also check other types besides just integers. For example, in the following code block, the user is task to enter a choice and the program then implements different behavior based on the string input.
+In the last class, we looked at Pythagorean tuning and introduced the concepts of if-statements and litst. Remember that if-statements are a means to run different code depending on whether a condition is satisfied or not. So far, we've used integers, to check whether values are in certain ranges or equal to certain values, but we can also check other types besides just integers. For example, in the following code block, the user is task to enter a choice and the program then implements different behavior based on the string input.
 
 ```python
 s = input("Do you want to delete this file? (Y/n) ")
